@@ -26,7 +26,7 @@ app.use("/note",noteRouter);
 // mongoose.set('strictQuery', true);
 
 app.get("/",(req,res)=>{
-    res.send("Hola! I am Alive.");
+    res.send("Hola! I am Iron man.");
 });
 
 
